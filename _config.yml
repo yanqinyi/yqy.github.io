@@ -77,7 +77,6 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-
 deploy:
   type: git
   repository: ssh://git@github.com/yanqinyi/yqy.github.io.git
