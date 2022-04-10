@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+deploy:
+  type: git
+  repository: ssh://git@github.com/yanqinyi/yqy.github.io.git
+  branch: master
